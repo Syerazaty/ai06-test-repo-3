@@ -28,6 +28,7 @@ A global average pooling and dense layer are used as the classifier to output so
 
 The simplified illustration of the model is shown in the figure below.
 
+![model](https://user-images.githubusercontent.com/95268200/176706934-ddaab44b-9c70-43d1-b468-6650f89dad7b.png)
 
 
 The model is trained with a batch size of 16 and 10 epochs. After training, the model reaches 99% training accuracy and 95% validation accuracy. The training results are shown in the figures below.
