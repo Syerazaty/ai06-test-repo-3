@@ -10,7 +10,7 @@ The project is completed with Spyder as the main IDE. The main frameworks used i
 
 3. Methodology
 
-The methodology for this project is inspired by a documentation on the official TensorFlow website. You can refer to it here.
+The methodology for this project is inspired by a documentation on the official TensorFlow website. You can refer to it [here.](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 3.1. Data Pipeline
 
