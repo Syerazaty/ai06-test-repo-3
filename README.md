@@ -2,7 +2,7 @@ Identifying Cracks on Concrete with Image Classification using Convolutional Neu
 
 1. Summary
 
-The aim of the project is to create a convolutional neural network model that can identify cracks on concrete with a high accuracy. The problem is modelled as a binary classification problem (no cracks/negative and cracks/positive). The model is trained with a dataset of 40000 images (20000 images of concrete in good condition and 20000 images of concrete with cracks). The source of the dataset can be found here.
+The aim of the project is to perform image classification to classify concretes with cracks using a convolutional neural network model. The problem is modelled as a binary classification problem (no cracks/negative and cracks/positive). The model is trained with a dataset of 40000 images (20000 images of concrete in good condition and 20000 images of concrete with cracks). The source of the dataset can be found [here.](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 
 2. IDE and Framework
 
